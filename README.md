@@ -1,8 +1,4 @@
-# Hi There! <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35px" height="35px"/> 
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Nitya+Reddy;+👩‍💻+Software+Developer;" />
-</h1>
+# Hi There! 👋 I'm Nitya Reddy 👧 Software Developer 👩‍💻
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
