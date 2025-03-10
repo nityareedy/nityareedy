@@ -87,39 +87,22 @@
 
 ### 🚀 Featured Projects
 
-<div align="center" style="background-color: #1a1b27; border-radius: 10px; padding: 20px;">
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-    <a href="https://github.com/nityareedy/Expense-Tracker-" style="text-decoration: none;">
-      <div style="background-color: #24292e; padding: 15px; border-radius: 5px;">
-        <h3 style="color: #ff69b4;">💰 Expense Tracker</h3>
-        <p style="color: #58a6ff;">Python</p>
-      </div>
-    </a>
-    <a href="https://github.com/nityareedy/Stackoverflow_clone" style="text-decoration: none;">
-      <div style="background-color: #24292e; padding: 15px; border-radius: 5px;">
-        <h3 style="color: #ff69b4;">❓ Stack Overflow Clone</h3>
-        <p style="color: #58a6ff;">HTML</p>
-      </div>
-    </a>
-    <a href="https://github.com/nityareedy/Weather_app" style="text-decoration: none;">
-      <div style="background-color: #24292e; padding: 15px; border-radius: 5px;">
-        <h3 style="color: #ff69b4;">🌤️ Weather App</h3>
-        <p style="color: #58a6ff;">JavaScript</p>
-      </div>
-    </a>
-    <a href="https://github.com/nityareedy/url_shortner-" style="text-decoration: none;">
-      <div style="background-color: #24292e; padding: 15px; border-radius: 5px;">
-        <h3 style="color: #ff69b4;">🔗 URL Shortener</h3>
-        <p style="color: #58a6ff;">Python</p>
-      </div>
-    </a>
-    <a href="https://github.com/nityareedy/To-Do-App-using-Django-" style="text-decoration: none;">
-      <div style="background-color: #24292e; padding: 15px; border-radius: 5px;">
-        <h3 style="color: #ff69b4;">✅ Todo App</h3>
-        <p style="color: #58a6ff;">Python, Django</p>
-      </div>
-    </a>
-  </div>
+<div align="center">
+  <a href="https://github.com/nityareedy/Expense-Tracker-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nityareedy&repo=Expense-Tracker-&theme=radical" />
+  </a>
+  <a href="https://github.com/nityareedy/Stackoverflow_clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nityareedy&repo=Stackoverflow_clone&theme=radical" />
+  </a>
+  <a href="https://github.com/nityareedy/Weather_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nityareedy&repo=Weather_app&theme=radical" />
+  </a>
+  <a href="https://github.com/nityareedy/url_shortner-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nityareedy&repo=url_shortner-&theme=radical" />
+  </a>
+  <a href="https://github.com/nityareedy/To-Do-App-using-Django-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nityareedy&repo=To-Do-App-using-Django-&theme=radical" />
+  </a>
 </div>
 
 ---
