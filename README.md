@@ -67,12 +67,23 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nityareedy&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nityareedy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityareedy&layout=compact&theme=radical" alt="Top Languages" />
+  <div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nityareedy&show_icons=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=70a5fd&text_color=70a5fd&bg_color=1a1b27" alt="Nitya Reddy Yerram's github stats" /> 
+    <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=nityareedy&hide_border=true&theme=radical&background=1a1b27&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4" alt="Nitya Reddy Yerram's github streak"/>
+  </div>
+
+  <div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityareedy&layout=compact&hide_border=true&title_color=ff69b4&text_color=70a5fd&bg_color=1a1b27" alt="Nitya Reddy Yerram's most used languages"/>
+  </div>
+</div>
+
+## ⚡ GitHub Activity ⚡
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nityareedy&theme=radical"/>
 </div>
 
 ---
