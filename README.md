@@ -87,22 +87,39 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/nityareedy/Expense-Tracker-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nityareedy&repo=Expense-Tracker-&theme=radical" />
-  </a>
-  <a href="https://github.com/nityareedy/Stackoverflow_clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nityareedy&repo=Stackoverflow_clone&theme=radical" />
-  </a>
-  <a href="https://github.com/nityareedy/Weather_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nityareedy&repo=Weather_app&theme=radical" />
-  </a>
-  <a href="https://github.com/nityareedy/url_shortner-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nityareedy&repo=url_shortner-&theme=radical" />
-  </a>
-  <a href="https://github.com/nityareedy/To-Do-App-using-Django-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nityareedy&repo=To-Do-App-using-Django-&theme=radical" />
-  </a>
+<div align="center" style="background-color: #1a1b27; border-radius: 10px; padding: 20px;">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+    <a href="https://github.com/nityareedy/Expense-Tracker-" style="text-decoration: none;">
+      <div style="background-color: #24292e; padding: 15px; border-radius: 5px;">
+        <h3 style="color: #ff69b4;">💰 Expense Tracker</h3>
+        <p style="color: #58a6ff;">Python</p>
+      </div>
+    </a>
+    <a href="https://github.com/nityareedy/Stackoverflow_clone" style="text-decoration: none;">
+      <div style="background-color: #24292e; padding: 15px; border-radius: 5px;">
+        <h3 style="color: #ff69b4;">❓ Stack Overflow Clone</h3>
+        <p style="color: #58a6ff;">HTML</p>
+      </div>
+    </a>
+    <a href="https://github.com/nityareedy/Weather_app" style="text-decoration: none;">
+      <div style="background-color: #24292e; padding: 15px; border-radius: 5px;">
+        <h3 style="color: #ff69b4;">🌤️ Weather App</h3>
+        <p style="color: #58a6ff;">JavaScript</p>
+      </div>
+    </a>
+    <a href="https://github.com/nityareedy/url_shortner-" style="text-decoration: none;">
+      <div style="background-color: #24292e; padding: 15px; border-radius: 5px;">
+        <h3 style="color: #ff69b4;">🔗 URL Shortener</h3>
+        <p style="color: #58a6ff;">Python</p>
+      </div>
+    </a>
+    <a href="https://github.com/nityareedy/To-Do-App-using-Django-" style="text-decoration: none;">
+      <div style="background-color: #24292e; padding: 15px; border-radius: 5px;">
+        <h3 style="color: #ff69b4;">✅ Todo App</h3>
+        <p style="color: #58a6ff;">Python, Django</p>
+      </div>
+    </a>
+  </div>
 </div>
 
 ---
@@ -110,8 +127,9 @@
 ### 🔗 Connect with Me:
 <div align="center">
   <p>
-    <a href="https://www.linkedin.com/in/nitya-reddy-yerram-a90a36222/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="https://github.com/nityareedy"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-    <a href="mailto:yerramnitya05@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+    <a href="https://www.linkedin.com/in/nitya-reddy-yerram-a90a36222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/nityareedy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="mailto:yerramnitya05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="tel:+13522792259"><img src="https://img.shields.io/badge/Phone-+1--352--279--2259-25D366?style=for-the-badge&logo=phone&logoColor=white"/></a>
   </p>
 </div> 
