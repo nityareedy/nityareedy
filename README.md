@@ -1,21 +1,11 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi There! <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35px" height="35px"/> 
 
-I'm Nitya Reddy
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Nitya+Reddy;+👩‍💻+Software+Developer;" />
+</h1>
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/nitya-reddy-yerram-a90a36222/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://github.com/nityareedy">
-      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
-    <a href="mailto:yerramnitya05@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-  </div>
 </div>
 
 ---
@@ -42,8 +32,6 @@ I'm Nitya Reddy
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-
 ## 🛠️ Languages-Frameworks-Tools 🛠️
 
 <p align="center">
@@ -55,11 +43,10 @@ I'm Nitya Reddy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="50" alt="Express.js" style="background-color: white; border-radius: 5px; padding: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="50" alt="Flask" style="background-color: white; border-radius: 5px; padding: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="50" alt="Django" style="background-color: white; border-radius: 5px; padding: 3px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
 </p>
 
@@ -71,6 +58,28 @@ I'm Nitya Reddy
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nityareedy&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=nityareedy&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityareedy&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/nityareedy/Expense-Tracker-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nityareedy&repo=Expense-Tracker-&theme=radical" />
+  </a>
+  <a href="https://github.com/nityareedy/Stackoverflow_clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nityareedy&repo=Stackoverflow_clone&theme=radical" />
+  </a>
+  <a href="https://github.com/nityareedy/Weather_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nityareedy&repo=Weather_app&theme=radical" />
+  </a>
+  <a href="https://github.com/nityareedy/url_shortner-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nityareedy&repo=url_shortner-&theme=radical" />
+  </a>
+  <a href="https://github.com/nityareedy/To-Do-App-using-Django-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nityareedy&repo=To-Do-App-using-Django-&theme=radical" />
+  </a>
 </div>
 
 ---
