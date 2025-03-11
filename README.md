@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋+I'm+Nitya+Reddy" />
+  <img src="/font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋+I'm+Nitya+Reddy" />
 </h1>
 
 ### :woman_technologist: About Me :
