@@ -10,9 +10,10 @@
 - Expected Graduation: December 2026
 
 💼 **Professional Experience**
-- 16 months of software development experience at AmeriCloud Solutions India PVT, LTD
-- Led development of high-performance e-commerce platform using MERN stack
-- Optimized payment workflows and scaled transactions by 30%
+- Redesigned responsive web pages using ReactJS, improving user engagement by 15% and reducing page load times by 20%.
+- Developed a real-time telematics system for railcars, enhancing efficiency by 25% and user satisfaction by 20%.
+- Built and optimized RESTful APIs with Node.js and AWS, reducing system latency by 30% and query times by 40%.
+
 
 💻 **Technical Focus**
 - Currently enhancing skills in React.js and Node.js
