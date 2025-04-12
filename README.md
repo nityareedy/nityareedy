@@ -68,17 +68,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 🔥 My Stats:
-
-<div align="center">
-  <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nityareedy&show_icons=true&count_private=true&hide_border=true&title_color=ff69b4&icon_color=70a5fd&text_color=70a5fd&bg_color=1a1b27" alt="Nitya Reddy Yerram's github stats" /> 
-  <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityareedy&layout=compact&hide_border=true&title_color=ff69b4&text_color=70a5fd&bg_color=1a1b27" alt="Nitya Reddy Yerram's most used languages"/>
-  </div>
-</div>
-
 ## ⚡ GitHub Activity ⚡
 
 <div align="center">
