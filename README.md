@@ -68,13 +68,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/>
 </p>
 ---
-## ⚡ GitHub Activity ⚡
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nityareedy&theme=radical"/>
-</div>
-
----
 
 ### 🔗 Connect with Me:
 <div align="center">
