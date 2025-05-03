@@ -34,9 +34,6 @@
 
 ---
 
-### 🌐 Portfolio Website
-[🌐 nityareedy.github.io](https://nityareedy.github.io) <!-- Replace if you host it elsewhere -->
 
----
 
 > _“I love building tools that are useful, efficient, and fun to use — one commit at a time.”_
