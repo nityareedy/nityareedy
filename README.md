@@ -9,24 +9,6 @@
 
 ---
 
-### 💻 What I'm Currently Doing
-
-- 🚀 Enhancing full-stack development skills with React.js and Node.js  
-- 📚 Mastering system design and scalable web application architecture  
-- 🔍 Exploring new-gen AI tools and open-source contributions  
-
----
-
-### 👩‍💻 Technical Interests
-
-- Full-Stack Web Development (React.js + Node.js + MongoDB)
-- RESTful API Design and Optimization  
-- Data Structures, Algorithms & System Design  
-- Scalable Software Architectures  
-- DevOps, Cloud (AWS, GCP), and CI/CD practices
-
----
-
 ### 💼 Past Experience
 
 - **Software Engineer @ AmeriCloud Solutions** (16 months)
