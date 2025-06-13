@@ -6,16 +6,6 @@
 📍 Based in San Jose, CA | 💼 Ex - AmeriCloud Solutions  
 📅 Expected Graduation: December 2026  
 📧 Contact: nityareddy.yerram@sjsu.edu | [LinkedIn](https://www.linkedin.com/in/nitya-reddy-yerram-a90a36222)
-
----
-
-### 💼 Past Experience
-
-- **Software Engineer @ AmeriCloud Solutions** (16 months)
-  - 🛠 Redesigned web apps with ReactJS → ⬆️ user engagement by 15%, ⬇️ load times by 20%
-  - 📈 Built a real-time telematics system for railcars → ⬆️ efficiency by 25%
-  - 🔄 Developed REST APIs using Node.js & AWS → ⬇️ latency by 30%, query times by 40%
-
 ---
 
 ### 📌 Fun Projects Coming Soon
